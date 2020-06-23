@@ -9,4 +9,4 @@ Authors@R:
 Description: methylation liver data use to perform for MethICA analysis. 
 License: GPL-3
 Encoding: UTF-8
-Depends: R (>= 5.6.0)
+Depends: R (>= 3.6.0)
