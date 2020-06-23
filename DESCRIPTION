@@ -1,4 +1,4 @@
-Package: MethICA_LICAFRdata
+Package: MethICAdata
 Title: data example for Methylation signature analysis with ICA project R package
 Version: 0.0
 Authors@R: 
