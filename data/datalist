@@ -1,0 +1,10 @@
+./hg19_genome_feature/CGI-based_features_hg19.txt
+./hg19_genome_feature/CPG_feature_Illumina.RData
+./hg19_genome_feature/Gene-based_features_hg19.txt
+./LICAFR/CpG_feature.Rdata
+./LICAFR/LICAFR_annot.RData
+./LICAFR/LICAFR_annot.txt
+./LICAFR/pval.Rdata
+./liver_specific_data/cst18_liver.RData
+./liver_specific_data/GSE113405_LIV_ADLT.MethylSeekR.segments.bed
+./liver_specific_data/HepG2_replication_domains.RData
